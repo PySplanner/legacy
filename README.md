@@ -1,3 +1,7 @@
+> [!WARNING]
+> This is a legacy pre-release version. It has been replaced by https://github.com/PySplanner/main.
+
+
 <div align="center">
   
 # PySplanner - The All-In-One Solution to FLL
